@@ -7,7 +7,7 @@
 2. **数据结构**：https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
 
-N. 关于Python
+N. 关于Python 
 0. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
 1. **切片**：https://www.jianshu.com/p/15715d6f4dad
 2. **复制/浅拷贝/深拷贝**：https://blog.csdn.net/bufengzj/article/details/90486991
