@@ -8,7 +8,11 @@
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
 3. **二叉树**的分支介绍和详细总结：https://blog.csdn.net/zhaoyun_zzz/article/details/88393380  &  https://zhuanlan.zhihu.com/p/27700617
 
-N. 关于Python
+二. 关于SQL
+1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
+
+
+三. 关于Python
 
 0. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
 1. **切片**：https://www.jianshu.com/p/15715d6f4dad
