@@ -12,6 +12,14 @@
 1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
 2. **on和where的区别**：https://www.jianshu.com/p/d923cf8ae25f
 * 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选（在建表后辨真伪完成筛选）。
+3. **各种表连接的区别**：https://www.runoob.com/sql/sql-join.html
+	○ 外连接outer join：
+		- left join：联结结果保留左表的全部数据
+		- right join：联结结果保留右表的全部数据
+		- full join：联结结果保留左右表的全部数据
+	○ 内连接inner join：取两表的公共数据
+	○ 交叉连接cross join：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和cross join一样也是笛卡尔积的结果)
+  ○ union内部的每个select语句必须拥有相同数量的列。列也必须拥有相似的数据类型。同时，每个select语句中的列的顺序必须相同。(上下连表)
 
 
 
