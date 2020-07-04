@@ -10,6 +10,9 @@
 
 二. 关于SQL
 1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
+2. **on和where的区别**：https://www.jianshu.com/p/d923cf8ae25f
+* 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选（在建表后辨真伪完成筛选）。
+
 
 
 三. 关于Python
