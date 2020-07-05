@@ -31,8 +31,8 @@
 
 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
-* 精简版：https://www.cnblogs.com/wyaokai/p/10921323.html
-* 详细介绍版：https://zhuanlan.zhihu.com/p/117476959
+* 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
+* 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
 2. **MYSQL索引部分**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
 3. **MYSQL锁机制（行锁/表锁）**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E9%94%81%E6%9C%BA%E5%88%B6.md
 4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
