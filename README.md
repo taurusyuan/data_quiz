@@ -30,7 +30,9 @@
 * group by是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
 
 三. 关于MySQL
-1. **MYSQL事务和隔离级别**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%BA%8B%E5%8A%A1%E5%92%8C%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB.md
+1. **MYSQL事务和隔离级别**：
+* 精简版：https://www.cnblogs.com/wyaokai/p/10921323.html
+* 详细介绍版：https://zhuanlan.zhihu.com/p/117476959
 2. **MYSQL索引部分**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
 3. **MYSQL锁机制（行锁/表锁）**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E9%94%81%E6%9C%BA%E5%88%B6.md
 4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
