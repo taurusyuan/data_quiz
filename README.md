@@ -11,7 +11,7 @@
 二. 关于SQL
 1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
 2. **on和where的区别**：https://www.jianshu.com/p/d923cf8ae25f
-* 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选（在建表后辨真伪完成筛选）。
+* 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
 3. **各种表连接的区别**：https://www.runoob.com/sql/sql-join.html
 >外连接outer join：
 >>* left join：联结结果保留左表的全部数据
@@ -23,6 +23,13 @@
 >交叉连接cross join：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和cross join一样也是笛卡尔积的结果) 
 
 >上下连接union：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。union只会选取不同的值(直接做了去重再连表)。union all可以用来选取重复的值！ 
+4. **rank()/dense_rank()/row_number用于排名问题的剖析**：https://www.linuxidc.com/Linux/2015-04/116349.htm
+* 说明使用rank over()的时候，空值是最大的，如果排序字段为null, 可能造成null字段排在最前面，影响排序结果。可以这样：rank over(partition by course order by score desc nulls last)
+5. **partition by和group by的区别**
+* partition by用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
+* group by是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
+
+
 
 三. 关于Python
 
