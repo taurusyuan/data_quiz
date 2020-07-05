@@ -8,7 +8,22 @@
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
 3. **二叉树**的分支介绍和详细总结：https://blog.csdn.net/zhaoyun_zzz/article/details/88393380  &  https://zhuanlan.zhihu.com/p/27700617
 
-二. 关于SQL语句易混淆点
+
+
+二. 关于MySQL
+1. **MYSQL事务和隔离级别**：
+* 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
+* 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
+2. **MYSQL索引部分**：
+* 条理清楚版（面面俱到又切中要点，很重要）：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
+>内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化（面试常问的两个点）
+* 精简版通俗易懂（适合最后复习的时候回忆知识点）：https://www.jianshu.com/p/c82148473235
+* 详细介绍版（讲的很全面和通俗易懂）：https://www.jianshu.com/p/0d6c828d3c70
+3. **MYSQL锁机制（行锁/表锁）**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E9%94%81%E6%9C%BA%E5%88%B6.md
+4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
+
+
+三. 关于SQL语句易混淆点
 1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
 2. **on和where的区别**：https://www.jianshu.com/p/d923cf8ae25f
 * 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
@@ -28,15 +43,6 @@
 5. **partition by和group by的区别**
 * partition by用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
 * group by是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
-
-三. 关于MySQL
-1. **MYSQL事务和隔离级别**：
-* 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
-* 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
-2. **MYSQL索引部分**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
-3. **MYSQL锁机制（行锁/表锁）**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E9%94%81%E6%9C%BA%E5%88%B6.md
-4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
-
 
 
 四. 关于Python
