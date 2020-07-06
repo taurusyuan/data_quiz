@@ -30,7 +30,7 @@
 
 ## 三. 关于Redis
 
-## 四. 关于SQL语句易混淆点
+## 四. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
 2. **`on`和`where`的区别**：https://www.jianshu.com/p/d923cf8ae25f
 * 概括说明：先执行 `on`，后执行 `where`；`on` 是建立关联关系(无论条件真假都会建表，不辨真伪)，`where` 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
@@ -50,6 +50,7 @@
 5. **`partition by`和`group by`的区别**
 * `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
+6. 面试题原型题50道：https://blog.csdn.net/hundan_520520/article/details/54881208?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
 
 
 ## 五. 关于Python
