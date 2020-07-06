@@ -1,19 +1,20 @@
 # 关于大数据开发岗位面试的一些资料总结和经验
 
 ## 一. 关于数据结构
-1. [**大话数据结构（精华版总结）**](https://www.cnblogs.com/anliux/p/10802321.html)
+1. [**《大话数据结构》**(精华版总结)](https://www.cnblogs.com/anliux/p/10802321.html)
 * 说明：刷题前必看，分章节对《大话数据结构》这本书的重点和精华部分的概括（对于来不及看书er超级有用）。
-2. **数据结构**：https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md
+2. [**数据结构**(精简版总结)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
-3. **二叉树**的分支介绍和详细总结：https://blog.csdn.net/zhaoyun_zzz/article/details/88393380  &  https://zhuanlan.zhihu.com/p/27700617
+3. [**树与二叉树的学习总结**(分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
+4. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
 ## 二.关于计算机网络
-1. **面试题汇总（含答案）**：[计算机网络常见面试题](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE). 
+1. [**计算机网络常见面试题**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE). 
 
 ## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
-* 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
-* 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
+* [详细介绍版(讲的很全面和通俗易懂)](https://zhuanlan.zhihu.com/p/117476959)
+* [精简版(举的例子很清楚)](https://www.cnblogs.com/wyaokai/p/10921323.html)
 2. **MYSQL索引**：
 * 条理清楚版（面面俱到又切中要点，很重要）：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
 >内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化（面试常问的两个点）
