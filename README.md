@@ -12,9 +12,8 @@
 
 ## 二.关于计算机网络
 1. [**计算机网络常见面试题**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE)
-2. [网络层次模型划分(上)](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8A%EF%BC%89.md) & [网络层次模型划分(下)](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%B1%82%E6%AC%A1%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8B%EF%BC%89.md)
-3. [TCP 三次握手](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/TCP%20%E4%B9%8B%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md)
-4. [TCP 四次挥手](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/TCP%E4%B9%8B%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)
+2. [**网络层次模型划分(上)**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8A%EF%BC%89.md) & [**网络层次模型划分(下)**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%B1%82%E6%AC%A1%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8B%EF%BC%89.md)
+3. [**TCP 三次握手**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/TCP%20%E4%B9%8B%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.md) & [**TCP 四次挥手**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/TCP%E4%B9%8B%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)
 
 ## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
