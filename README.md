@@ -29,8 +29,9 @@
 * https://blog.csdn.net/qq_22222499/article/details/79060495
 
 ## 三. 关于Redis
-1. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
-2. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
+1. Redis和MySQL的区别：https://blog.csdn.net/qq_38311489/article/details/84255532
+2. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
+3. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
 
 ## 四. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
@@ -63,6 +64,3 @@
 【备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象】
 3. **continue 和 break 的区别**：https://www.cnblogs.com/NancyRM/p/7998088.html
 4. **双边队列**https://www.cnblogs.com/lincappu/p/12890765.html
-
-
-
