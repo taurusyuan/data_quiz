@@ -52,9 +52,10 @@
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
 6. 面试题原型题50道：https://blog.csdn.net/hundan_520520/article/details/54881208?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
 
+## 五.关于Linux
+* 面试题汇总：https://blog.csdn.net/Butterfly_resting/article/details/89668744
 
 ## 五. 关于Python
-
 0. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
 1. **切片**：https://www.jianshu.com/p/15715d6f4dad
 2. **复制/浅拷贝/深拷贝**：https://blog.csdn.net/bufengzj/article/details/90486991
