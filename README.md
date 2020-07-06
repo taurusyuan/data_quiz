@@ -35,11 +35,11 @@
 8. [其他博主关于**MySQL汇总贴子(比较精简和抓重点)**](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
 
 ## 四. 关于Redis
-1. [Redis和MySQL的区别](https://blog.csdn.net/qq_38311489/article/details/84255532)
-2. [简洁明了的面试题40道(含答案)](https://blog.csdn.net/Design407/article/details/103242874)
-3. [详细的面试题汇总(含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
-4. [面试题快问快答1(含答案)](https://segmentfault.com/a/1190000017339258)
-5. [面试题快问快答2(含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd)
+1. [**Redis和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
+2. [**简洁明了的面试题40道**(含答案)](https://blog.csdn.net/Design407/article/details/103242874)
+3. [**详细的面试题汇总**(含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
+4. [**面试题快问快答1**(含答案)](https://segmentfault.com/a/1190000017339258)
+5. [**面试题快问快答2**(含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd)
 
 ## 五. 关于SQL
 1. [**`group by`时`select`后跟聚合函数与否的剖析**](https://blog.csdn.net/u014717572/article/details/80687042)
@@ -61,9 +61,9 @@
 6. [面试题原型题50道](https://blog.csdn.net/hundan_520520/article/details/54881208)
 
 ## 六.关于Linux
-* [常用命令解析和汇总](https://segmentfault.com/a/1190000021950993)
-* [面试题汇总1](https://blog.csdn.net/Butterfly_resting/article/details/89668744)
-* [面试题汇总2](https://blog.csdn.net/Design407/article/details/103735538)
+* [**常用命令解析和汇总**](https://segmentfault.com/a/1190000021950993)
+* [**面试题汇总1**](https://blog.csdn.net/Butterfly_resting/article/details/89668744)
+* [**面试题汇总2**](https://blog.csdn.net/Design407/article/details/103735538)
 
 
 ## 七. 关于Python
@@ -77,15 +77,14 @@
 6. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 
 ## 八.关于算法
-1. [各类题型算法模板](https://greyireland.gitbook.io/algorithm-pattern/)
-2. [leetcode算法模板(Python3)](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
-3. [LeetCode高频率题目分类标记(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
-4. [LeetCode大佬的博客](https://krahets.gitee.io/)
->他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析
+1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
+2. [**leetcode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
+3. [**LeetCode高频率题目分类标记**(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
+4. [**LeetCode大佬的博客**](https://krahets.gitee.io/)(他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析)
 
 ## 九.其他人的面试准备汇总
-1. [面面俱到又清晰明了，你想要的他都有的面试总结(强推)](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
-2. [面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用(结的很好很全面)](https://github.com/taizilongxu/interview_python)
-3. [各大公司的面试题的分类汇总以及各大模块内容的分类总结](https://github.com/0voice/interview_internal_reference)
+1. [**面面俱到又清晰明了的面试题总结**你想要的他都有的面试总结(强推)](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
+2. [**全方位面试题总结**有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用](https://github.com/taizilongxu/interview_python)
+3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结](https://github.com/0voice/interview_internal_reference)
 
 
