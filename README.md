@@ -80,7 +80,8 @@
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
 2. [**leetcode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
 3. [**LeetCode高频率题目分类标记**(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
-4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) (他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析)
+4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
+* 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice
 
 ## 九.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
