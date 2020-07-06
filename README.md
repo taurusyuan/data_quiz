@@ -11,12 +11,12 @@
 1. **MYSQL事务和隔离级别**：
 * 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
 * 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
-2. **MYSQL索引部分**：
+2. **MYSQL索引**：
 * 条理清楚版（面面俱到又切中要点，很重要）：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
 >内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化（面试常问的两个点）
 * 精简版通俗易懂（适合最后复习的时候回忆知识点）：https://www.jianshu.com/p/c82148473235
 * 详细介绍版（讲的很全面和通俗易懂）：https://www.jianshu.com/p/0d6c828d3c70
-3. **MYSQL锁机制（行锁/表锁）**：
+3. **MYSQL锁机制（行锁/表锁等）**：
 * 详细介绍版（讲的很全面且有英文原版对照）：https://blog.csdn.net/Saintyyu/article/details/91269087
 * 精简总结版（带例分析）：https://www.cnblogs.com/rjzheng/p/9950951.html
 * 各大存储引擎锁的区别分析：https://zhuanlan.zhihu.com/p/29150809
@@ -41,11 +41,8 @@
 >>* `left join`：联结结果保留左表的全部数据
 >>* `right join`：联结结果保留右表的全部数据
 >>* `full join`：联结结果保留左右表的全部数据 (MySQL中不支持`full join`，可以在 SQL Server使用。)
-
 >内连接`inner join`：取两表的公共数据 
-
 >交叉连接`cross join`：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和`cross join`一样也是笛卡尔积的结果) 
-
 >上下连接`union`：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。`union`只会选取不同的值(直接做了去重再连表)。`union all`可以用来选取重复的值！ 
 4. **`rank()/dense_rank()/row_number`用于排名问题的剖析**：https://www.linuxidc.com/Linux/2015-04/116349.htm
 * 说明使用`rank over()`的时候，空值是最大的，如果排序字段为null, 可能造成null字段排在最前面，影响排序结果。可以这样：`rank over(partition by course order by score desc nulls last)`
