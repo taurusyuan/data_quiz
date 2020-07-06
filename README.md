@@ -24,20 +24,20 @@
 4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
 
 三. 关于SQL语句易混淆点
-1. **group by时select后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
-2. **on和where的区别**：https://www.jianshu.com/p/d923cf8ae25f
-* 概括说明：先执行 on，后执行 where；on 是建立关联关系(无论条件真假都会建表，不辨真伪)，where 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
+1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
+2. **`on`和`where`的区别**：https://www.jianshu.com/p/d923cf8ae25f
+* 概括说明：先执行 `on`，后执行 `where`；`on` 是建立关联关系(无论条件真假都会建表，不辨真伪)，`where` 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
 3. **各种表连接的区别**：https://www.runoob.com/sql/sql-join.html
->外连接outer join：
->>* left join：联结结果保留左表的全部数据
->>* right join：联结结果保留右表的全部数据
->>* full join：联结结果保留左右表的全部数据 (MySQL中不支持full join，可以在 SQL Server使用。)
+>外连接`outer join`：
+>>* `left join`：联结结果保留左表的全部数据
+>>* `right join`：联结结果保留右表的全部数据
+>>* `full join`：联结结果保留左右表的全部数据 (MySQL中不支持`full join`，可以在 SQL Server使用。)
 
->内连接inner join：取两表的公共数据 
+>内连接`inner join`：取两表的公共数据 
 
->交叉连接cross join：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和cross join一样也是笛卡尔积的结果) 
+>交叉连接`cross join`：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和`cross join`一样也是笛卡尔积的结果) 
 
->上下连接union：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。union只会选取不同的值(直接做了去重再连表)。union all可以用来选取重复的值！ 
+>上下连接`union`：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。`union`只会选取不同的值(直接做了去重再连表)。`union all`可以用来选取重复的值！ 
 4. **`rank()/dense_rank()/row_number`用于排名问题的剖析**：https://www.linuxidc.com/Linux/2015-04/116349.htm
 * 说明使用`rank over()`的时候，空值是最大的，如果排序字段为null, 可能造成null字段排在最前面，影响排序结果。可以这样：`rank over(partition by course order by score desc nulls last)`
 5. **`partition by`和`group by`的区别**
