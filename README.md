@@ -6,6 +6,7 @@
 2. [**数据结构**(精简版总结)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
 3. [**Leetcode官网数据结构分类简介**(含对应习题)](https://leetcode-cn.com/explore/learn/)
+* 说明：这个可以在刷题前看一遍内容，对应习题看时间选择做与不做，主要还是先做Leetcode官网里剑指offer板块的题
 3. [**树与二叉树的学习总结**(分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
 4. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
