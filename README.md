@@ -70,3 +70,4 @@
 
 ## 六.其他人的面试准备汇总
 1. 关于面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用（总结的很好很全面）：https://github.com/taizilongxu/interview_python
+2. 关于各大公司的面试题的分类汇总以及各大模块内容的分类总结：https://github.com/0voice/interview_internal_reference
