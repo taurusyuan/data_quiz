@@ -58,7 +58,7 @@
 5. **`partition by`和`group by`的区别**
 * `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
-6. [面试题原型题50道](https://blog.csdn.net/hundan_520520/article/details/54881208)
+6. [**面试题原型题50道**](https://blog.csdn.net/hundan_520520/article/details/54881208)
 
 ## 六.关于Linux
 * [**常用命令解析和汇总**](https://segmentfault.com/a/1190000021950993)
@@ -80,11 +80,11 @@
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
 2. [**leetcode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
 3. [**LeetCode高频率题目分类标记**(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
-4. [**LeetCode大佬的博客**](https://krahets.gitee.io/)(他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析)
+4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) (他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析)
 
 ## 九.其他人的面试准备汇总
-1. [**面面俱到又清晰明了的面试题总结**你想要的他都有的面试总结(强推)](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
-2. [**全方位面试题总结**有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用](https://github.com/taizilongxu/interview_python)
-3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结](https://github.com/0voice/interview_internal_reference)
+1. [**面面俱到又清晰明了的面试题总结** (你想要的他都有的面试总结)](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
+2. [**全方位面试题总结** (有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用)](https://github.com/taizilongxu/interview_python)
+3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结**](https://github.com/0voice/interview_internal_reference)
 
 
