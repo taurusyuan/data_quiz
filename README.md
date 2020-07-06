@@ -32,6 +32,8 @@
 1. Redis和MySQL的区别：https://blog.csdn.net/qq_38311489/article/details/84255532
 2. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
 3. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
+4. 面试题快问快答：https://segmentfault.com/a/1190000017339258 & https://blog.csdn.net/weixin_34163553/article/details/91450473
+
 
 ## 四. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
