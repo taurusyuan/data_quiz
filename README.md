@@ -7,7 +7,10 @@
 * 说明：刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
 3. **二叉树**的分支介绍和详细总结：https://blog.csdn.net/zhaoyun_zzz/article/details/88393380  &  https://zhuanlan.zhihu.com/p/27700617
 
-## 二. 关于MySQL
+## 二.关于计算机网络
+**常见面试题汇总（含答案）**：https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE
+
+## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
 * 详细介绍版（讲的很全面和通俗易懂）：https://zhuanlan.zhihu.com/p/117476959
 * 精简版（举的例子很清楚）：https://www.cnblogs.com/wyaokai/p/10921323.html
@@ -29,13 +32,13 @@
 * https://blog.csdn.net/qq_22222499/article/details/79060495
 8. **MySQL别人的汇总贴子（比较精简和抓重点）**：https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md
 
-## 三. 关于Redis
+## 四. 关于Redis
 1. Redis和MySQL的区别：https://blog.csdn.net/qq_38311489/article/details/84255532
 2. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
 3. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
 4. 面试题快问快答：https://segmentfault.com/a/1190000017339258 & https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd
 
-## 四. 关于SQL
+## 五. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
 2. **`on`和`where`的区别**：https://www.jianshu.com/p/d923cf8ae25f
 * 概括说明：先执行 `on`，后执行 `where`；`on` 是建立关联关系(无论条件真假都会建表，不辨真伪)，`where` 是对关联关系的筛选 (在建表后辨真伪完成筛选)。
@@ -54,11 +57,13 @@
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
 6. 面试题原型题50道：https://blog.csdn.net/hundan_520520/article/details/54881208
 
-## 五.关于Linux
+## 六.关于Linux
+* 常用命令解析和汇总：https://segmentfault.com/a/1190000021950993
 * 面试题汇总1：https://blog.csdn.net/Butterfly_resting/article/details/89668744
 * 面试题汇总2：https://blog.csdn.net/Design407/article/details/103735538
 
-## 五. 关于Python
+
+## 七. 关于Python
 1. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
 2. **切片**：https://www.jianshu.com/p/15715d6f4dad
 3. **复制/浅拷贝/深拷贝**：https://blog.csdn.net/bufengzj/article/details/90486991
@@ -68,6 +73,15 @@
 5. **双边队列**https://www.cnblogs.com/lincappu/p/12890765.html
 6. **Python实现单例模式**：https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F
 
-## 六.其他人的面试准备汇总
-1. 关于面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用（总结的很好很全面）：https://github.com/taizilongxu/interview_python
-2. 关于各大公司的面试题的分类汇总以及各大模块内容的分类总结：https://github.com/0voice/interview_internal_reference
+## 八.关于算法
+1. 各类题型算法模板：https://greyireland.gitbook.io/algorithm-pattern/
+2. leetcode算法模板（Python3）：https://blog.csdn.net/fuxuemingzhu/article/details/101900729
+3. LeetCode高频率题目分类标记（好心人开了会员截图展示）：https://ac.nowcoder.com/discuss/292850
+4. LeetCode大佬的博客（他对剑指offer所有题的解析非常好，有PPT动图解析）：https://krahets.gitee.io/
+
+## 九.其他人的面试准备汇总
+1. 这个面面俱到又都清晰明了，你想要的他都有（强推）：https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95
+2. 关于面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用（总结的很好很全面）：https://github.com/taizilongxu/interview_python
+3. 关于各大公司的面试题的分类汇总以及各大模块内容的分类总结：https://github.com/0voice/interview_internal_reference
+
+
