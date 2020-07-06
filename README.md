@@ -19,7 +19,8 @@
 * 详细介绍版（讲的很全面和通俗易懂）：https://www.jianshu.com/p/0d6c828d3c70
 3. **MYSQL锁机制（行锁/表锁）**：
 * 详细介绍版（讲的很全面且有英文原版对照）：https://blog.csdn.net/Saintyyu/article/details/91269087
-* 精简总结版（适合最后一看）：https://www.cnblogs.com/rjzheng/p/9950951.html
+* 精简总结版（带例分析）：https://www.cnblogs.com/rjzheng/p/9950951.html
+* 各大存储引擎锁的区别分析：https://zhuanlan.zhihu.com/p/29150809
 4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
 
 三. 关于SQL语句易混淆点
@@ -37,11 +38,11 @@
 >交叉连接cross join：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积(注意：select * from 表1，表2实现自身级联，和cross join一样也是笛卡尔积的结果) 
 
 >上下连接union：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。union只会选取不同的值(直接做了去重再连表)。union all可以用来选取重复的值！ 
-4. **rank()/dense_rank()/row_number用于排名问题的剖析**：https://www.linuxidc.com/Linux/2015-04/116349.htm
-* 说明使用rank over()的时候，空值是最大的，如果排序字段为null, 可能造成null字段排在最前面，影响排序结果。可以这样：rank over(partition by course order by score desc nulls last)
-5. **partition by和group by的区别**
-* partition by用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
-* group by是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
+4. **`rank()/dense_rank()/row_number`用于排名问题的剖析**：https://www.linuxidc.com/Linux/2015-04/116349.htm
+* 说明使用`rank over()`的时候，空值是最大的，如果排序字段为null, 可能造成null字段排在最前面，影响排序结果。可以这样：`rank over(partition by course order by score desc nulls last)`
+5. **`partition by`和`group by`的区别**
+* `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
+* `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
 
 
 四. 关于Python
