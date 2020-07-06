@@ -1,5 +1,4 @@
-# data_quiz
-## 关于大数据开发岗位面试的一些资料总结和经验
+# 关于大数据开发岗位面试的一些资料总结和经验
 
 一. 关于数据结构
 1. **大话数据结构（精华版总结）**：https://www.cnblogs.com/anliux/p/10802321.html
@@ -22,7 +21,7 @@
 * 精简总结版（带例分析）：https://www.cnblogs.com/rjzheng/p/9950951.html
 * 各大存储引擎锁的区别分析：https://zhuanlan.zhihu.com/p/29150809
 * 刷完上面的帖子来波新鲜的面试问题检验一下学习成果：https://zhuanlan.zhihu.com/p/123096947
-4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
+4. **MYSQL主从复制**：https://www.jianshu.com/p/faf0127f1cb2
 
 三. 关于SQL语句易混淆点
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
