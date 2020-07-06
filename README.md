@@ -25,10 +25,12 @@
 5. **分表分区**：https://www.jianshu.com/p/2084216e81ce
 6. **MVCC**：https://blog.51cto.com/12182612/2486731?source=dra
 7. **MySQL面试题汇总**：
-* https://blog.csdn.net/Butterfly_resting/article/details/89704636?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
-* https://blog.csdn.net/qq_22222499/article/details/79060495?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
+* https://blog.csdn.net/Butterfly_resting/article/details/89704636
+* https://blog.csdn.net/qq_22222499/article/details/79060495
 
 ## 三. 关于Redis
+1. 简介明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
+2. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
 
 ## 四. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
@@ -50,10 +52,11 @@
 5. **`partition by`和`group by`的区别**
 * `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
-6. 面试题原型题50道：https://blog.csdn.net/hundan_520520/article/details/54881208?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
+6. 面试题原型题50道：https://blog.csdn.net/hundan_520520/article/details/54881208
 
 ## 五.关于Linux
-* 面试题汇总：https://blog.csdn.net/Butterfly_resting/article/details/89668744
+* 面试题汇总1：https://blog.csdn.net/Butterfly_resting/article/details/89668744
+* 面试题汇总2：https://blog.csdn.net/Design407/article/details/103735538
 
 ## 五. 关于Python
 0. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
