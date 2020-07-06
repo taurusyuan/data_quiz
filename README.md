@@ -17,7 +17,7 @@
 * [详细介绍版(讲的很全面和通俗易懂)](https://zhuanlan.zhihu.com/p/117476959)
 * [精简版(举的例子很清楚)](https://www.cnblogs.com/wyaokai/p/10921323.html)
 2. **MYSQL索引**：
-* [条理清楚版(面面俱到又切中要点，很重要)]https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md
+* [条理清楚版(面面俱到又切中要点，很重要)]https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md)
 >内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化(面试常问的两个点)
 * [精简版通俗易懂(适合最后复习的时候回忆知识点)](https://www.jianshu.com/p/c82148473235)
 * [详细介绍版(讲的很全面和通俗易懂)](https://www.jianshu.com/p/0d6c828d3c70)
