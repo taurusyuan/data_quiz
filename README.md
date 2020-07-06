@@ -22,6 +22,8 @@
 * 各大存储引擎锁的区别分析：https://zhuanlan.zhihu.com/p/29150809
 * 刷完上面的帖子来波新鲜的面试问题检验一下学习成果：https://zhuanlan.zhihu.com/p/123096947
 4. **MYSQL主从复制**：https://www.jianshu.com/p/faf0127f1cb2
+5. **分表分区**：https://www.jianshu.com/p/2084216e81ce
+6. **MVCC**：https://blog.51cto.com/12182612/2486731?source=dra
 
 三. 关于SQL语句易混淆点
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
