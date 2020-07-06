@@ -84,7 +84,7 @@
 
 ## 九.其他人的面试准备汇总
 1. [面面俱到又清晰明了，你想要的他都有的面试总结(强推)](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
-2. [面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用(结的很好很全面)](tps://github.com/taizilongxu/interview_python)
-3. [各大公司的面试题的分类汇总以及各大模块内容的分类总结]ttps://github.com/0voice/interview_internal_reference)
+2. [面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用(结的很好很全面)](https://github.com/taizilongxu/interview_python)
+3. [各大公司的面试题的分类汇总以及各大模块内容的分类总结](https://github.com/0voice/interview_internal_reference)
 
 
