@@ -21,6 +21,7 @@
 * 详细介绍版（讲的很全面且有英文原版对照）：https://blog.csdn.net/Saintyyu/article/details/91269087
 * 精简总结版（带例分析）：https://www.cnblogs.com/rjzheng/p/9950951.html
 * 各大存储引擎锁的区别分析：https://zhuanlan.zhihu.com/p/29150809
+* 刷完上面的帖子来波新鲜的面试问题检验一下学习成果：https://zhuanlan.zhihu.com/p/123096947
 4. **MYSQL主从复制**：https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md
 
 三. 关于SQL语句易混淆点
