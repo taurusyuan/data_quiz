@@ -27,13 +27,13 @@
 7. **MySQL面试题汇总**：
 * https://blog.csdn.net/Butterfly_resting/article/details/89704636
 * https://blog.csdn.net/qq_22222499/article/details/79060495
+8. **MySQL别人的汇总贴子（比较精简和抓重点）**：https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md
 
 ## 三. 关于Redis
 1. Redis和MySQL的区别：https://blog.csdn.net/qq_38311489/article/details/84255532
 2. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
 3. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
-4. 面试题快问快答：https://segmentfault.com/a/1190000017339258 & https://blog.csdn.net/weixin_34163553/article/details/91450473
-
+4. 面试题快问快答：https://segmentfault.com/a/1190000017339258 & https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd
 
 ## 四. 关于SQL
 1. **`group by`时`select`后跟聚合函数与否的剖析**：https://blog.csdn.net/u014717572/article/details/80687042
@@ -59,10 +59,14 @@
 * 面试题汇总2：https://blog.csdn.net/Design407/article/details/103735538
 
 ## 五. 关于Python
-0. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
-1. **切片**：https://www.jianshu.com/p/15715d6f4dad
-2. **复制/浅拷贝/深拷贝**：https://blog.csdn.net/bufengzj/article/details/90486991
+1. **时间/空间复杂度分析**：https://blog.csdn.net/haha223545/article/details/93619874
+2. **切片**：https://www.jianshu.com/p/15715d6f4dad
+3. **复制/浅拷贝/深拷贝**：https://blog.csdn.net/bufengzj/article/details/90486991
 * 说明：常用的是浅拷贝（".copy()"或者"[:]"），而不是深拷贝".deepcopy()"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制（即"="）前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
 【备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象】
-3. **continue 和 break 的区别**：https://www.cnblogs.com/NancyRM/p/7998088.html
-4. **双边队列**https://www.cnblogs.com/lincappu/p/12890765.html
+4. **continue 和 break 的区别**：https://www.cnblogs.com/NancyRM/p/7998088.html
+5. **双边队列**https://www.cnblogs.com/lincappu/p/12890765.html
+6. **Python实现单例模式**：https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F
+
+## 六.其他人的面试准备汇总
+1. 关于面试题总结，有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用（总结的很好很全面）：https://github.com/taizilongxu/interview_python
