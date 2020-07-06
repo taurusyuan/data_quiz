@@ -24,7 +24,9 @@
 4. **MYSQL主从复制**：https://www.jianshu.com/p/faf0127f1cb2
 5. **分表分区**：https://www.jianshu.com/p/2084216e81ce
 6. **MVCC**：https://blog.51cto.com/12182612/2486731?source=dra
-7. **MySQL面试题汇总**：https://blog.csdn.net/Butterfly_resting/article/details/89704636?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
+7. **MySQL面试题汇总**：
+* https://blog.csdn.net/Butterfly_resting/article/details/89704636?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
+* https://blog.csdn.net/qq_22222499/article/details/79060495?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.nonecase
 
 ## 三. 关于Redis
 
