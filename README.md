@@ -29,7 +29,7 @@
 * https://blog.csdn.net/qq_22222499/article/details/79060495
 
 ## 三. 关于Redis
-1. 简介明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
+1. 简洁明了的面试题40道（含答案）：https://blog.csdn.net/Design407/article/details/103242874
 2. 详细的面试题汇总（含答案）：https://blog.csdn.net/Butterfly_resting/article/details/89668661
 
 ## 四. 关于SQL
