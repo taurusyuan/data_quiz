@@ -11,12 +11,17 @@
 4. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
 ## 二.关于计算机网络
-1. [**网络层次模型划分(上)**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8A%EF%BC%89.md) & [**网络层次模型划分(下)**](https://github.com/luxiangqiang/Blog/blob/master/articel/%E7%BD%91%E7%BB%9C%E5%8E%9F%E7%90%86/%E7%BD%91%E7%BB%9C%E5%B1%82%E6%AC%A1%E6%A8%A1%E5%9E%8B%E5%88%92%E5%88%86%EF%BC%88%E4%B8%8B%EF%BC%89.md)
+1. [**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420)
+* 有时间可以扫一遍，过一下基础知识，方便理解后面的博客内容。
 2. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
 * 内含男女告白和分手过程类比，帮助理解。
 3. [**TCP的三次握手与四次挥手理解及面试题（很全面）**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
 4. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
+5. [**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)
+* 全面覆盖知识点且逻辑层次很清晰，有答案解析。
+6. [**计算机网络常见面试题详细版**(含答案)]
+* 适合看完5再复盘一遍。
 5. [**计算机网络常见面试题精简版**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
 
