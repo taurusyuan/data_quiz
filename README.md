@@ -20,15 +20,15 @@
   * 这块儿根据 JD 需求自己把握是否需要复习
 
 ## 一. 关于数据结构
-1. [**大话数据结构**(精华版总结)](https://www.cnblogs.com/anliux/p/10802321.html)
+1. [**大话数据结构** (精华版总结)](https://www.cnblogs.com/anliux/p/10802321.html)
 * 刷题前必看，分章节对《大话数据结构》这本书的重点和精华部分的概括 (对于来不及看书er超级有用)。
-2. [**数据结构**(精简版总结)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
+2. [**数据结构** (精简版总结)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 * 刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
-3. [**Leetcode官网数据结构分类简介**(含对应习题)](https://leetcode-cn.com/explore/learn/)
+3. [**Leetcode官网数据结构分类简介** (含对应习题)](https://leetcode-cn.com/explore/learn/)
 * 这个可以在刷题前看一遍内容，对应习题看时间选择做与不做，主要还是先做Leetcode官网里剑指offer板块的题
 4. [**《算法与数据结构之美》的学习笔记**](https://blog.csdn.net/ityqing/article/details/82838524)
 * 内含数据结构与算法思维导图、时间/空间复杂度分析、数组、链表、队列和栈、递归、排序 (冒泡排序、插入排序、选择排序、归并排序、快速排序、桶排序)、散列表的图解介绍，图画的很好看而且很直观，写的很好。
-5. [**树与二叉树的学习总结**(分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
+5. [**树与二叉树的学习总结** (分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
 * 内含二叉树的分类 (满二叉树、完全二叉树、二叉排序树)、遍历 (前序、中序、后序、层序)、变种 (AVL树、红黑树、B树、B+树、B\*树)。
 
 ## 二.关于计算机网络
