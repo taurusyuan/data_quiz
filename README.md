@@ -77,6 +77,9 @@ SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家�
 * [几率大的数据库（MySQL）面试题](https://blog.csdn.net/Butterfly_resting/article/details/89704636)
 * [数据库常见面试题](https://blog.csdn.net/qq_22222499/article/details/79060495)
 8. [其他博主关于**MySQL汇总贴子(比较精简和抓重点)**](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
+9. [**MySQL常见面试题一网打尽**](https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL?id=%e4%b8%80%e6%9d%a1sql%e8%af%ad%e5%8f%a5%e6%89%a7%e8%a1%8c%e5%be%97%e5%be%88%e6%85%a2%e7%9a%84%e5%8e%9f%e5%9b%a0%e6%9c%89%e5%93%aa%e4%ba%9b%ef%bc%9f)
+* 内容精简且全面直击要害，适合最后复盘（仅看此贴即管够\*\*\*\*\*）。
+
 
 ## 四. 关于Redis
 1. [**Redis和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
