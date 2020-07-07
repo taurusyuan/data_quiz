@@ -5,10 +5,13 @@
 * **基础知识**：
 数据结构、计算机网络、数据库（MySQL/Redis）
 * **计算机语言**：
-SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家可以选择性忽略选择自己熟悉的语言复习，例如Java, C++, Go等)
-* **算法题**：不用说了, 只能秃头刷两三遍[剑指offer](https://leetcode-cn.com/problemset/lcof/)和[Leetcode高频题](https://leetcode-cn.com/problemset/top/)，才能无惧手撕算法，所向披靡, 刷题前务必把该博文里的数据结构模块的内容过一遍, 否则连题目和答案解析都看不懂。
+SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家可以选择性忽略，并选择自己熟悉的语言复习，例如Java, C++, Go等)
+* **算法题**：不用说了, 只能秃头刷两三遍[**剑指offer**](https://leetcode-cn.com/problemset/lcof/)和[**Leetcode高频题**](https://leetcode-cn.com/problemset/top/)，才能无惧手撕算法，所向披靡, 刷题前务必把该博文里的数据结构模块的内容过一遍, 否则连题目和答案解析都看不懂。
 2. 适合大数据岗位的部分
 * **Hadoop生态圈**
+3. 面经汇总
+* 可以上[**牛客网**](https://www.nowcoder.com/interview/center)的**面试-面经汇总**版块看看自己的求职岗位面试官都会问什么问题，提前做好侧重点复习，事半功倍。
+* 还可以去求职公司的官网或者其他招聘网站看求职岗位的JD (Job Deion, 职位描述)
 
 ## 一. 关于数据结构
 1. [**大话数据结构**(精华版总结)](https://www.cnblogs.com/anliux/p/10802321.html)
@@ -95,6 +98,7 @@ SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家�
 * `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列(记录数不变)
 * `group by`是对原始数据进行聚合统计(记录数可能变少, 每组返回一条)
 6. [**面试题原型题50道**](https://blog.csdn.net/hundan_520520/article/details/54881208)
+7. [**Leetcode题**](https://leetcode-cn.com/problemset/database/):必刷，必须全部掌握非会员题，就20道左右。
 
 ## 六.关于Linux
 * [**常用命令解析和汇总**](https://segmentfault.com/a/1190000021950993)
