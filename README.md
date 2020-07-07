@@ -11,8 +11,8 @@
 4. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
 ## 二.关于计算机网络
-1. [**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420)
-* 有时间可以扫一遍，过一下基础知识，方便理解后面的博客内容。
+1. [**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)
+* 可以扫一遍，过一下基础知识，方便理解后面的博客内容。
 2. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
 * 内含男女告白和分手过程类比，帮助理解。
 3. [**TCP的三次握手与四次挥手理解及面试题（很全面）**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
