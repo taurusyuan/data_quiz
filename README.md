@@ -34,7 +34,7 @@
 * [条理清楚版(面面俱到又切中要点，很重要)](https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md)
 >内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化(面试常问的两个点)
 >>索引优化
-- 避免使用select *
+```- 避免使用select *
 - count(1)或count(列) 代替 count(*)
 - 创建表时尽量时 char 代替 varchar
 - 表的字段顺序固定长度的字段优先
@@ -43,6 +43,7 @@
 - 使用连接（JOIN）来代替子查询(Sub-Queries)
 - 连表时注意条件类型需一致
 - 索引散列值（重复少）不适合建索引，例：性别不适合
+```
 * [精简版通俗易懂(适合最后复习的时候回忆知识点)](https://www.jianshu.com/p/c82148473235)
 * [详细介绍版(讲的很全面和通俗易懂)](https://www.jianshu.com/p/0d6c828d3c70)
 3. **MYSQL锁机制**：
