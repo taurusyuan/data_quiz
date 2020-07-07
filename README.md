@@ -16,6 +16,7 @@
 * 内含男女告白和分手过程类比，帮助理解。
 3. [**TCP的三次握手与四次挥手理解及面试题（很全面）**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
+4. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
 4. [**计算机网络常见面试题精简版**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE)
 
 
