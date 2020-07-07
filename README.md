@@ -27,11 +27,9 @@
 3. [**Leetcode官网数据结构分类简介**(含对应习题)](https://leetcode-cn.com/explore/learn/)
 * 这个可以在刷题前看一遍内容，对应习题看时间选择做与不做，主要还是先做Leetcode官网里剑指offer板块的题
 4. [**《算法与数据结构之美》的学习笔记**](https://blog.csdn.net/ityqing/article/details/82838524)
-* 内含数据结构与算法思维导图、时间/空间复杂度分析、数组、链表、队列和栈、递归、排序、散列表的图解介绍，图画的很好看而且很直观。
-5. [**排序:冒泡排序,插入排序,选择排序,归并排序,快速排序,桶排序**](https://blog.csdn.net/ityqing/article/details/85685760)
-* 图解多种排序算法，写的很好
-6. [**树与二叉树的学习总结**(分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
-7. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
+* 内含数据结构与算法思维导图、时间/空间复杂度分析、数组、链表、队列和栈、递归、排序 (冒泡排序、插入排序、选择排序、归并排序、快速排序、桶排序)、散列表的图解介绍，图画的很好看而且很直观，写的很好。
+5. [**树与二叉树的学习总结**(分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380)  
+6. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
 ## 二.关于计算机网络
 1. <span id="2.1">[**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)</span>
