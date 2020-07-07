@@ -28,8 +28,10 @@ SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家�
 7. [**平衡二叉树、B树、B+树、B\*树**](https://zhuanlan.zhihu.com/p/27700617)
 
 ## 二.关于计算机网络
-1. [**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)
-* 可以扫一遍，过一下基础知识，方便理解后面的博客内容。
+1. <span id="2.1">[**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)</span>
+* 有时间的可以扫一遍，过一下基础知识，方便理解后面的博客内容。
+2. [**计算机网络面试常考总结(一)**](https://blog.nowcoder.net/n/f3323ab8ceb047c28a039cd2143392d6) & [**计算机网络面试常考总结(二)**](https://blog.nowcoder.net/n/0660c422f7594d8eb752ab77fdb5d0ef)
+* 没有时间看[1. 《图解HTTP》 & 《TCP/IP详解卷1：协议》](#2.1)的，可以直接看这一部分的总结，基本要点全部都包含了，而且重点明显。
 2. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
 * 内含男女告白和分手过程类比，帮助理解。
 3. [**TCP的三次握手与四次挥手理解及面试题（很全面）**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
