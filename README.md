@@ -1,17 +1,17 @@
 # 2020互联网秋招技术岗面试必备资料和总结
 
 ## 前言
-1. 互联网所有岗位通用的部分
+1. 岗位需求和面经汇总
+* 可以上[**牛客网**](https://www.nowcoder.com/interview/center)的**面试-面经汇总**版块看看自己的求职岗位面试官都会问什么问题，提前做好侧重点复习，事半功倍。
+* 还可以去求职公司的官网或者其他招聘网站看求职岗位的JD (Job Description, 职位描述), 对症下药, 投其所好, 精准复习。
+2. 互联网所有岗位通用的部分
 * **基础知识**：
 数据结构、计算机网络、数据库（MySQL/Redis）
 * **计算机语言**：
 SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家可以选择性忽略，并选择自己熟悉的语言复习，例如Java, C++, Go等)
 * **算法题**：不用说了, 只能秃头刷两三遍[**剑指offer**](https://leetcode-cn.com/problemset/lcof/)和[**Leetcode高频题**](https://leetcode-cn.com/problemset/top/)，才能无惧手撕算法，所向披靡, 刷题前务必把该博文里的数据结构模块的内容过一遍, 否则连题目和答案解析都看不懂。
-2. 适合大数据岗位的部分
-* **Hadoop生态圈**
-3. 面经汇总
-* 可以上[**牛客网**](https://www.nowcoder.com/interview/center)的**面试-面经汇总**版块看看自己的求职岗位面试官都会问什么问题，提前做好侧重点复习，事半功倍。
-* 还可以去求职公司的官网或者其他招聘网站看求职岗位的JD (Job Deion, 职位描述)
+3. 适合大数据岗位的部分
+* **Hadoop生态圈**(这块儿根据JD需求自己把握是否需要复习)
 
 ## 一. 关于数据结构
 1. [**大话数据结构**(精华版总结)](https://www.cnblogs.com/anliux/p/10802321.html)
@@ -38,7 +38,6 @@ SQL (必会)、Linux (加分项)、Python (这是博主熟悉的语言，大家�
 * 适合看完5再复盘一遍。
 8. [**计算机网络常见面试题精简版**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
-
 
 ## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
