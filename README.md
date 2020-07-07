@@ -14,7 +14,7 @@
   * Linux (加分项)   
   * Python (这是博主熟悉的语言，大家可以选择性忽略，并选择自己熟悉的语言复习，例如 Java、C++、Go等)
 * 算法题：
-  * 不用说了，只能秃头刷两三遍[**剑指offer**](https://leetcode-cn.com/problemset/lcof/)和[**Leetcode高频题**](https://leetcode-cn.com/problemset/top/)，才能无惧手撕算法，所向披靡，刷题前务必把该博文里的数据结构模块的内容过一遍，否则连题目和答案解析都看不懂。
+  * 不用说了，只能秃头刷两三遍[**剑指Offer**](https://leetcode-cn.com/problemset/lcof/)和[**LeetCode高频题**](https://leetcode-cn.com/problemset/top/)，才能无惧手撕算法，所向披靡，刷题前务必把该博文里的数据结构模块的内容过一遍，否则连题目和答案解析都看不懂。
 3. **适合大数据岗位的部分**
 * Hadoop生态圈：
   * 这块儿根据 JD 需求自己把握是否需要复习
@@ -24,7 +24,7 @@
 * 刷题前必看，分章节对《大话数据结构》这本书的重点和精华部分的概括 (对于来不及看书er超级有用)。
 2. [**数据结构** (精简版总结)](https://github.com/Jack-Lee-Hiter/AlgorithmsByPython/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
 * 刷完上面的每一章之后看这个链接里对应的内容，是一种更加精简概括，适合用来巩固和面试前复习。
-3. [**Leetcode官网数据结构分类简介** (含对应习题)](https://leetcode-cn.com/explore/learn/)
+3. [**LeetCode官网数据结构分类简介** (含对应习题)](https://leetcode-cn.com/explore/learn/)
 * 这个可以在刷题前看一遍内容，对应习题看时间选择做与不做，主要还是先做Leetcode官网里剑指offer板块的题
 4. [**《算法与数据结构之美》的学习笔记**](https://blog.csdn.net/ityqing/article/details/82838524)
 * 内含数据结构与算法思维导图、时间/空间复杂度分析、数组、链表、队列和栈、递归、排序 (冒泡排序、插入排序、选择排序、归并排序、快速排序、桶排序)、散列表的图解介绍，图画的很好看而且很直观，写的很好。
@@ -131,7 +131,7 @@
 
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
-2. [**leetcode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
+2. [**leetCode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
 3. [**LeetCode高频率题目分类标记**(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice
