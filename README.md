@@ -139,6 +139,9 @@
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
 
+## 关于Hadoop生态圈
+1. [**Hadoop面试知识点**](https://zhuanlan.zhihu.com/p/95543763Hadoop面试)
+
 ## 九.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
 * 说明：你想要的他都有的面试总结, 强推。
