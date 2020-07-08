@@ -44,11 +44,12 @@
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
 7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
 8. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
-9. <span id="2.6">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
+9. [**从输入URL到网页呈现的过程**](https://www.cnblogs.com/xufeimei/p/10745227.html)
+10. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
-10. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
-* 适合看完[6. 计算机网络面试题总结](#2.6)再复盘一遍。
-11. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
+11. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
+* 适合看完[6. 计算机网络面试题总结](#2.10)再复盘一遍。
+12. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
 
 ## 三. 关于MySQL
@@ -138,9 +139,10 @@
 3. [**LeetCode高频率题目分类标记** (好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
+5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
 
 ## 关于Hadoop生态圈
-1. [**Hadoop面试知识点**](https://zhuanlan.zhihu.com/p/95543763Hadoop面试)
+1. [**Hadoop面试知识点**](https://www.jianshu.com/p/a8e7e98298cc)
 
 ## 九.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
