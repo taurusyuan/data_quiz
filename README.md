@@ -56,8 +56,9 @@
 2. **MYSQL索引**：
 * [条理清楚版 (面面俱到又切中要点，很重要)](https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md)
   * 内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化(面试常问的两个点)
->索引优化
-```- 避免使用select *
+ * 索引优化
+```
+- 避免使用select *
 - count(1)或count(列) 代替 count(*)
 - 创建表时尽量时 char 代替 varchar
 - 表的字段顺序固定长度的字段优先
