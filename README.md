@@ -68,7 +68,6 @@
 - 索引散列值(重复少)不适合建索引，例：性别不适合
 ```
 * [精简版通俗易懂(适合最后复习的时候回忆知识点)](https://www.jianshu.com/p/c82148473235)
-* [详细介绍版(讲的很全面和通俗易懂)](https://www.jianshu.com/p/0d6c828d3c70)
 3. **MYSQL锁机制**：
 * [详细介绍版(讲的很全面且有英文原版对照)](https://blog.csdn.net/Saintyyu/article/details/91269087)
 * [精简总结版(带例分析)](https://www.cnblogs.com/rjzheng/p/9950951.html)
