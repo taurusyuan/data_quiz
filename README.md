@@ -38,23 +38,23 @@
 * 没有时间看[1. 《图解HTTP》 & 《TCP/IP详解卷1：协议》](#2.1)的，可以直接看这一部分的总结，基本要点全部都包含了，而且重点明显。
 2. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
 * 内含男女告白和分手过程类比，帮助理解。
-3. [**TCP的三次握手与四次挥手理解及面试题（很全面）**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
+3. [**TCP的三次握手与四次挥手理解及面试题 (很全面)**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
 4. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
 5. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
 6. <span id="2.6">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
-7. [**计算机网络常见面试题详细版**(含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
+7. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
 * 适合看完[6. 计算机网络面试题总结](#2.6)再复盘一遍。
-8. [**计算机网络常见面试题精简版**(含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
+8. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
 
 ## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
-* [详细介绍版(讲的很全面和通俗易懂)](https://zhuanlan.zhihu.com/p/117476959)
-* [精简版(举的例子很清楚)](https://www.cnblogs.com/wyaokai/p/10921323.html)
+* [详细介绍版 (讲的很全面和通俗易懂)](https://zhuanlan.zhihu.com/p/117476959)
+* [精简版 (举的例子很清楚)](https://www.cnblogs.com/wyaokai/p/10921323.html)
 2. **MYSQL索引**：
-* [条理清楚版(面面俱到又切中要点，很重要)](https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md)
+* [条理清楚版 (面面俱到又切中要点，很重要)](https://github.com/ZXZxin/ZXBlog/blob/master/DB/MySQL/advance/MYSQL%E7%B4%A2%E5%BC%95.md)
   * 内含为什么B+树更适合实际应用中操作系统的文件索引和数据库索引的原因，以及SQL如何做优化(面试常问的两个点)
 >索引优化
 ```- 避免使用select *
@@ -67,17 +67,17 @@
 - 连表时注意条件类型需一致
 - 索引散列值(重复少)不适合建索引，例：性别不适合
 ```
-* [精简版通俗易懂(适合最后复习的时候回忆知识点)](https://www.jianshu.com/p/c82148473235)
+* [精简版通俗易懂 (适合最后复习的时候回忆知识点)](https://www.jianshu.com/p/c82148473235)
 3. **MYSQL锁机制**：
-* [详细介绍版(讲的很全面且有英文原版对照)](https://blog.csdn.net/Saintyyu/article/details/91269087)
-* [精简总结版(带例分析)](https://www.cnblogs.com/rjzheng/p/9950951.html)
+* [详细介绍版 (讲的很全面且有英文原版对照)](https://blog.csdn.net/Saintyyu/article/details/91269087)
+* [精简总结版 (带例分析)](https://www.cnblogs.com/rjzheng/p/9950951.html)
 * [各大存储引擎锁的区别分析](https://zhuanlan.zhihu.com/p/29150809)
-* [锁的常见面试题汇总(含答案)](https://zhuanlan.zhihu.com/p/123096947)
+* [锁的常见面试题汇总 (含答案)](https://zhuanlan.zhihu.com/p/123096947)
 4. [**MYSQL主从复制**](https://www.jianshu.com/p/faf0127f1cb2)
 5. [**MYSQL分表分区**](https://www.jianshu.com/p/2084216e81ce)
 6. [**MVCC**](https://blog.51cto.com/12182612/2486731?source=dra)
-7. **MySQL面试题汇总(含答案)**：
-* [几率大的数据库（MySQL）面试题](https://blog.csdn.net/Butterfly_resting/article/details/89704636)
+7. **MySQL面试题汇总 (含答案)**：
+* [几率大的数据库 (MySQL) 面试题](https://blog.csdn.net/Butterfly_resting/article/details/89704636)
  * 覆盖面非常广但是精准，适合第一次看完所有上述基础知识后来一次巩固检测。
 * [数据库常见面试题](https://blog.csdn.net/qq_22222499/article/details/79060495)
  * 用表格和一句话概括答案的形式精简化回答，易于记忆。
@@ -86,9 +86,9 @@
 
 ## 四. 关于Redis
 1. [**Redis (Remote Dictionary Server) 和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
-2. [**简洁明了的面试题40道**(含答案)](https://blog.csdn.net/Design407/article/details/103242874)
-3. [**详细的面试题汇总**(含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
-4. [**面试题快问快答精准版**(含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd) (⭐⭐⭐⭐⭐)
+2. [**简洁明了的面试题40道** (含答案)](https://blog.csdn.net/Design407/article/details/103242874)
+3. [**详细的面试题汇总** (含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
+4. [**面试题快问快答精准版** (含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
 5. [**什么是缓存穿透、缓存击穿、缓存雪崩以及怎么解决**](https://blog.csdn.net/ityqing/article/details/104675298)
 
@@ -100,7 +100,7 @@
 * 外连接`outer join`：
 >* `left join`：联结结果保留左表的全部数据
 >* `right join`：联结结果保留右表的全部数据
->* `full join`：联结结果保留左右表的全部数据 (MySQL中不支持`full join`，可以在 SQL Server使用。)
+>* `full join`：联结结果保留左右表的全部数据 (MySQL中不支持`full join`，可以在 SQL Server使用)
 * 内连接`inner join`：取两表的公共数据 
 * 交叉连接`cross join`：返回被连接的两个表的笛卡尔积，返回结果的行数等于两个表行数的乘积 (注意：select * from 表1，表2实现自身级联，和`cross join`一样也是笛卡尔积的结果) 
 * 上下连接`union`：内部的每个select语句必须拥有相同数量的列，列也必须拥有相似的数据类型，同时每个select语句中的列的顺序必须相同。`union`只会选取不同的值 (直接做了去重再连表)，`union all`可以用来选取重复的值！ 
@@ -123,7 +123,7 @@
 1. [**时间/空间复杂度分析**](https://blog.csdn.net/haha223545/article/details/93619874)
 2. [**切片**](https://www.jianshu.com/p/15715d6f4dad)
 3. [**复制/浅拷贝/深拷贝**](https://blog.csdn.net/bufengzj/article/details/90486991)
-* 说明：常用的是浅拷贝（".copy()"或者"[:]"），而不是深拷贝".deepcopy()"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制（即"="）前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
+* 说明：常用的是浅拷贝 (".copy()"或者"[:]")，而不是深拷贝".deepcopy()"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制 (即"=") 前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
 >备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象。
 4. [**continue 和 break 的区别**](https://www.cnblogs.com/NancyRM/p/7998088.html)
 5. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
@@ -132,7 +132,7 @@
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
 2. [**leetCode算法模板(Python3)**](https://blog.csdn.net/fuxuemingzhu/article/details/101900729)
-3. [**LeetCode高频率题目分类标记**(好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
+3. [**LeetCode高频率题目分类标记** (好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
 
