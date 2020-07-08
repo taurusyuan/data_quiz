@@ -72,7 +72,7 @@
 * [详细介绍版(讲的很全面且有英文原版对照)](https://blog.csdn.net/Saintyyu/article/details/91269087)
 * [精简总结版(带例分析)](https://www.cnblogs.com/rjzheng/p/9950951.html)
 * [各大存储引擎锁的区别分析](https://zhuanlan.zhihu.com/p/29150809)
-* [面试题汇总(含答案)](https://zhuanlan.zhihu.com/p/123096947)
+* [锁的常见面试题汇总(含答案)](https://zhuanlan.zhihu.com/p/123096947)
 4. [**MYSQL主从复制**](https://www.jianshu.com/p/faf0127f1cb2)
 5. [**MYSQL分表分区**](https://www.jianshu.com/p/2084216e81ce)
 6. [**MVCC**](https://blog.51cto.com/12182612/2486731?source=dra)
