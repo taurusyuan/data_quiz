@@ -7,7 +7,7 @@
 2. **互联网所有岗位通用的考察部分**
 * 基础知识：
   * 数据结构
-  * 计算机网络
+  * 操作系统、计算机网络
   * 数据库（MySQL/Redis）
 * 计算机语言：
   * SQL (必会)
@@ -31,22 +31,24 @@
 5. [**树与二叉树的学习总结** (分支介绍和详细总结)](https://blog.csdn.net/zhaoyun_zzz/article/details/88393380) (⭐⭐⭐⭐⭐)
 * 内含二叉树的分类 (满二叉树、完全二叉树、二叉排序树)、遍历 (前序、中序、后序、层序)、变种 (AVL树、红黑树、B树、B+树、B\*树)。
 
-## 二.关于计算机网络
-1. <span id="2.1">[**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)</span>
+## 二.关于操作系统和计算机网络
+1. [**操作系统常见面试知识点1 (含答案)**](https://www.cnblogs.com/zhangfuxiao/p/11624261.html)
+2. [**操作系统常见面试知识点2 (含答案)**](https://blog.csdn.net/xiaoming100001/article/details/94960922)
+3. <span id="2.1">[**《图解HTTP》**](https://blog.csdn.net/zephyr999/article/details/80055420) & [**《TCP/IP详解卷1：协议》**](https://www.cnblogs.com/mengwang024/p/4425834.html)</span>
 * 有时间的可以扫一遍，过一下基础知识，方便理解后面的博客内容。
-2. [**计算机网络面试常考总结(一)**](https://blog.nowcoder.net/n/f3323ab8ceb047c28a039cd2143392d6) & [**计算机网络面试常考总结(二)**](https://blog.nowcoder.net/n/0660c422f7594d8eb752ab77fdb5d0ef)
+4. [**计算机网络面试常考总结(一)**](https://blog.nowcoder.net/n/f3323ab8ceb047c28a039cd2143392d6) & [**计算机网络面试常考总结(二)**](https://blog.nowcoder.net/n/0660c422f7594d8eb752ab77fdb5d0ef)
 * 没有时间看[1. 《图解HTTP》 & 《TCP/IP详解卷1：协议》](#2.1)的，可以直接看这一部分的总结，基本要点全部都包含了，而且重点明显。
-2. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
+5. [**详解TCP连接的三次握手与四次挥手**](https://baijiahao.baidu.com/s?id=1654225744653405133&wfr=spider&for=pc)
 * 内含男女告白和分手过程类比，帮助理解。
-3. [**TCP的三次握手与四次挥手理解及面试题 (很全面)**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
+6. [**TCP的三次握手与四次挥手理解及面试题 (很全面)**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
-4. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
-5. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
-6. <span id="2.6">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
+7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
+8. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
+9. <span id="2.6">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
-7. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
+10. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
 * 适合看完[6. 计算机网络面试题总结](#2.6)再复盘一遍。
-8. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
+11. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
 
 ## 三. 关于MySQL
