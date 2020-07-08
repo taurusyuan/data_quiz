@@ -84,7 +84,6 @@
 8. [**MySQL常见面试题一网打尽**](https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL?id=%e4%b8%80%e6%9d%a1sql%e8%af%ad%e5%8f%a5%e6%89%a7%e8%a1%8c%e5%be%97%e5%be%88%e6%85%a2%e7%9a%84%e5%8e%9f%e5%9b%a0%e6%9c%89%e5%93%aa%e4%ba%9b%ef%bc%9f)
 * 内容精简且全面直击要害，适合最后复盘（仅看此贴即管够\*\*\*\*\*）。
 
-
 ## 四. 关于Redis
 1. [**Redis (Remote Dictionary Server) 和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
 2. [**简洁明了的面试题40道**(含答案)](https://blog.csdn.net/Design407/article/details/103242874)
@@ -111,13 +110,14 @@
 * `partition by`用于给结果集进行分区, 只是将原始数据进行名次排列 (记录数不变)
 * `group by`是对原始数据进行聚合统计 (记录数可能变少，每组返回一条)
 6. [**面试题原型题50道**](https://blog.csdn.net/hundan_520520/article/details/54881208)
-7. [**Leetcode题**](https://leetcode-cn.com/problemset/database/):必刷，必须全部掌握非会员题，就20道左右。
+* 这个有时间的话非常值得脑子里过一遍代码，Leetcode题基本都是从这些题变种来的。
+7. [**Leetcode题**](https://leetcode-cn.com/problemset/database/)
+* 必刷，时间有限的话也要全部掌握非会员题，就20道左右，足够应对面试。
 
 ## 六.关于Linux
 * [**常用命令解析和汇总**](https://segmentfault.com/a/1190000021950993)
 * [**面试题汇总1**](https://blog.csdn.net/Butterfly_resting/article/details/89668744)
 * [**面试题汇总2**](https://blog.csdn.net/Design407/article/details/103735538)
-
 
 ## 七. 关于Python
 1. [**时间/空间复杂度分析**](https://blog.csdn.net/haha223545/article/details/93619874)
