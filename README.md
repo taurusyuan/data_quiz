@@ -144,6 +144,8 @@
 9. [**Python内存管理机制**](https://www.cnblogs.com/geaozhang/p/7111961.html)
 * 引入计数、垃圾回收、内存池机制。
 10. [**Python中static_method、class_mathod、和普通method有什么区别**](https://www.cnblogs.com/ltb6w/p/11875480.html)
+11. [**Python可迭代对象、迭代器、生成器的区别**](https://blog.csdn.net/jinixin/article/details/72232604)
+* 定义可迭代对象，必须实现`__iter__()`方法；定义迭代器，必须实现`__iter__()`和`next()`方法; 生成器是一种特殊的迭代器 具有yield关键字的函数都是生成器，yield可以理解为return，返回后面的值给调用者。不同的是return返回后，函数会释放，而生成器则不会。在直接调用next方法或用for语句进行下一次迭代时，生成器会从yield下一句开始执行，直至遇到下一个yield)。
 
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
