@@ -154,10 +154,12 @@
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
 5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
+6. [**海量数据处理面试题集锦**](https://blog.csdn.net/athlenaa/article/details/86994633) (⭐⭐⭐⭐)
 
 ## 九.关于Hadoop生态圈
 1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1) (⭐⭐⭐⭐⭐)
 * 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
+2. [**20道大数据常见面试题**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
 
 ## 十.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
