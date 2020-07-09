@@ -137,6 +137,7 @@
 6. [**continue 和 break 的区别**](https://www.cnblogs.com/NancyRM/p/7998088.html)
 7. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
 8. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
+* Python中的函数就是一个很好的单例模式的例子。
 
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
