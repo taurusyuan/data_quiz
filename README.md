@@ -43,7 +43,7 @@
 6. [**TCP的三次握手与四次挥手理解及面试题 (很全面)**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
 7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
-8. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
+8. [**TCP滑动窗口**](https://www.cnblogs.com/jkzr/p/10488247.html) & [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
 9. [**从输入URL到网页呈现的过程**](https://www.cnblogs.com/xufeimei/p/10745227.html)
 10. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
@@ -159,3 +159,7 @@
 2. [**全方位面试题总结**](https://github.com/taizilongxu/interview_python)
 * 说明：有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用。
 3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结**](https://github.com/0voice/interview_internal_reference)
+
+## N.字节跳动面试相关
+1. [**字节常见面试题**](https://zhuanlan.zhihu.com/p/142319480?from_voters_page=true)
+2. [**字节跳动2020面试算法题+场景题+智力题100题**](https://ac.nowcoder.com/discuss/425581)
