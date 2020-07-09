@@ -131,7 +131,9 @@
 * 说明：常用的是浅拷贝 ("`copy.copy()`"或者"`[:]`")，而不是深拷贝"`copy.deepcopy()`"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制 (即"`=`") 前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
 >备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象。
 4. [**Python中`is`和`==`的区别**](https://www.cnblogs.com/wangkun122/p/9082088.html)
+* 只有数值型和字符串型的情况下，`a is b`才为`True`，当a和b是tuple，list，dict或set型时，`a is b`为`False`。因为`is`也被叫做同一性运算符，这个运算符比较判断的是对象间的唯一身份标识，也就是`id`是否相同。
 5. [**Python中`*`和`**`的区别**](https://www.cnblogs.com/beiluowuzheng/p/8461518.html)
+* Python中，`*`会把接收到的参数形成一个元组，而`**`则会把接收到的参数存入一个字典。
 6. [**continue 和 break 的区别**](https://www.cnblogs.com/NancyRM/p/7998088.html)
 7. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
 8. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
@@ -153,5 +155,3 @@
 2. [**全方位面试题总结**](https://github.com/taizilongxu/interview_python)
 * 说明：有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用。
 3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结**](https://github.com/0voice/interview_internal_reference)
-
-
