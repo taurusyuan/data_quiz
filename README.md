@@ -45,13 +45,14 @@
 7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
 8. [**TCP滑动窗口**](https://www.cnblogs.com/jkzr/p/10488247.html) & [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
 9. [**从输入URL到网页呈现的过程**](https://www.cnblogs.com/xufeimei/p/10745227.html)
-10. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
+10. [**Https原理及流程**](https://www.jianshu.com/p/14cd2c9d2cd2)
+11. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
-11. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
+12. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
 * 适合看完[6. 计算机网络面试题总结](#2.10)再复盘一遍。
-12. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
+13. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
-13. **TCP怎么保证可靠性**
+14. **TCP怎么保证可靠性**
 * 差错检验机制，反馈机制，重传机制，引入序号，滑动窗口协议，选择重传。
 
 ## 三. 关于MySQL
