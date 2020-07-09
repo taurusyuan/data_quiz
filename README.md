@@ -89,8 +89,8 @@
 * 内容精简且全面直击要害，适合最后复盘。
 
 ## 四. 关于Redis
-1. [**Redis (Remote Dictionary Server) 和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
-2. [**非关系型数据库(NoSql)的分类介绍**](https://blog.csdn.net/weixin_35353187/article/details/83026884)
+1. [**非关系型数据库 (NoSql) 的分类介绍**](https://blog.csdn.net/weixin_35353187/article/details/83026884)
+2. [**Redis (Remote Dictionary Server) 和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
 3. [**简洁明了的面试题40道** (含答案)](https://blog.csdn.net/Design407/article/details/103242874)
 4. [**详细的面试题汇总** (含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
 5. [**面试题快问快答精准版** (含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd) (⭐⭐⭐⭐⭐)
