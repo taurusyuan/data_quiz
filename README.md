@@ -148,7 +148,8 @@
 5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
 
 ## 关于Hadoop生态圈
-1. [**Hadoop面试知识点**](https://www.jianshu.com/p/a8e7e98298cc)
+1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1)
+* 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
 
 ## 九.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
