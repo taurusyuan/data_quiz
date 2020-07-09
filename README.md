@@ -159,7 +159,19 @@
 ## 九.关于Hadoop生态圈
 1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1) (⭐⭐⭐⭐⭐)
 * 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
-2. [**20道大数据常见面试题**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
+2. Hadoop各个组件
+* [**HDFS**](https://blog.csdn.net/weixin_35353187/article/details/82047892)
+* [**MapReduce**](https://blog.csdn.net/weixin_35353187/article/details/82108388)
+* [**Yarn**](https://blog.csdn.net/weixin_35353187/article/details/82112174)
+* [**Sqoop**](https://blog.csdn.net/weixin_35353187/article/details/82318482)
+* [**Flume**](https://blog.csdn.net/weixin_35353187/article/details/83038297)
+* [**zookeeper**](https://blog.csdn.net/weixin_35353187/article/details/82351970)
+3. [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187)
+4. [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
+4 面试题合集
+* [**20道大数据常见面试题**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
+* [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
+* [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
 
 ## 十.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
