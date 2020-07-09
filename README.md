@@ -90,11 +90,12 @@
 
 ## 四. 关于Redis
 1. [**Redis (Remote Dictionary Server) 和MySQL的区别**](https://blog.csdn.net/qq_38311489/article/details/84255532)
-2. [**简洁明了的面试题40道** (含答案)](https://blog.csdn.net/Design407/article/details/103242874)
-3. [**详细的面试题汇总** (含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
-4. [**面试题快问快答精准版** (含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd) (⭐⭐⭐⭐⭐)
+2. [**非关系型数据库(NoSql)的分类介绍**](https://blog.csdn.net/weixin_35353187/article/details/83026884)
+3. [**简洁明了的面试题40道** (含答案)](https://blog.csdn.net/Design407/article/details/103242874)
+4. [**详细的面试题汇总** (含答案)](https://blog.csdn.net/Butterfly_resting/article/details/89668661)
+5. [**面试题快问快答精准版** (含答案)](https://juejin.im/post/5cb13b4d6fb9a0687b7dd0bd) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
-5. [**什么是缓存穿透、缓存击穿、缓存雪崩以及怎么解决**](https://blog.csdn.net/ityqing/article/details/104675298)
+6. [**什么是缓存穿透、缓存击穿、缓存雪崩以及怎么解决**](https://blog.csdn.net/ityqing/article/details/104675298)
 
 ## 五. 关于SQL
 1. [**`group by`时`select`后跟聚合函数与否的剖析**](https://blog.csdn.net/u014717572/article/details/80687042)
