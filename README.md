@@ -127,7 +127,7 @@
 ## 七. 关于Python
 1. [**时间/空间复杂度分析**](https://blog.csdn.net/haha223545/article/details/93619874)
 2. [**切片**](https://www.jianshu.com/p/15715d6f4dad)
-3. [**复制/浅拷贝/深拷贝**](https://blog.csdn.net/bufengzj/article/details/90486991)
+3. [**复制/浅拷贝/深拷贝**1](https://blog.csdn.net/bufengzj/article/details/90486991) & [**复制/浅拷贝/深拷贝**2](https://www.jianshu.com/p/5cf2aebdf7c5)
 * 说明：常用的是浅拷贝 ("`copy.copy()`"或者"`[:]`")，而不是深拷贝"`copy.deepcopy()`"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制 (即"`=`") 前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
 >备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象。
 4. [**Python中`is`和`==`的区别**](https://www.cnblogs.com/wangkun122/p/9082088.html)
@@ -147,11 +147,11 @@
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
 5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
 
-## 关于Hadoop生态圈
+## 九.关于Hadoop生态圈
 1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1) (⭐⭐⭐⭐⭐)
 * 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
 
-## 九.其他人的面试准备汇总
+## 十.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
 * 说明：你想要的他都有的面试总结, 强推。
 2. [**全方位面试题总结**](https://github.com/taizilongxu/interview_python)
