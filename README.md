@@ -176,13 +176,12 @@
   * [5](https://blog.csdn.net/weixin_35353187/article/details/84777189)
   * [6](https://blog.csdn.net/weixin_35353187/article/details/84777309)
   * [7](https://blog.csdn.net/weixin_35353187/article/details/84777928)
-      
 3. **命令行操作**
 * [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187) 
 * [**HBase基本命令行操作**](https://blog.csdn.net/weixin_35353187/article/details/82383931)
 4. **面试题合集**
-* [**20道大数据常见面试题1**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
-* [**20道大数据常见面试题2**](https://blog.csdn.net/zuolixiangfisher/article/details/88973159)
+* [**20道大数据常见面试题1**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html) (⭐⭐⭐⭐⭐)
+* [**20道大数据常见面试题2**](https://blog.csdn.net/zuolixiangfisher/article/details/88973159) (⭐⭐⭐⭐⭐)
 * [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
 * [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
 * [**大数据Hadoop经典面试题3**](https://blog.csdn.net/weixin_35353187/article/details/83176026)
