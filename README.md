@@ -168,13 +168,24 @@
 * [**zookeeper**](https://blog.csdn.net/weixin_35353187/article/details/82351970)
 * [**HBase**](https://blog.csdn.net/weixin_35353187/article/details/82456905)
 * [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
+* **Spark** (非常重要的知识点，内容也很多)
+ * [1](https://blog.csdn.net/zuolixiangfisher/article/details/88973159)
+ * [2](https://blog.csdn.net/weixin_35353187/article/details/84728358)
+ * [3](https://blog.csdn.net/weixin_35353187/article/details/84728513)
+ * [4](https://blog.csdn.net/weixin_35353187/article/details/84729049)
+ * [5](https://blog.csdn.net/weixin_35353187/article/details/84777189)
+ * [6](https://blog.csdn.net/weixin_35353187/article/details/84777309)
+ * [7](https://blog.csdn.net/weixin_35353187/article/details/84777928)
+      
 3. **命令行操作**
 * [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187) 
 * [**HBase基本命令行操作**](https://blog.csdn.net/weixin_35353187/article/details/82383931)
 4. **面试题合集**
-* [**20道大数据常见面试题**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
+* [**20道大数据常见面试题1**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
+* [**20道大数据常见面试题2**](https://blog.csdn.net/zuolixiangfisher/article/details/88973159)
 * [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
 * [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
+* [**大数据Hadoop经典面试题3**](https://blog.csdn.net/weixin_35353187/article/details/83176026)
 
 ## 十.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
