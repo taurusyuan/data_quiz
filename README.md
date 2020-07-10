@@ -166,9 +166,12 @@
 * [**Sqoop**](https://blog.csdn.net/weixin_35353187/article/details/82318482)
 * [**Flume**](https://blog.csdn.net/weixin_35353187/article/details/83038297)
 * [**zookeeper**](https://blog.csdn.net/weixin_35353187/article/details/82351970)
-3. [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187)
-4. [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
-4 面试题合集
+* [**HBase**](https://blog.csdn.net/weixin_35353187/article/details/82456905)
+* [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
+3. **命令行操作**
+* [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187) 
+* [**HBase基本命令行操作**](https://blog.csdn.net/weixin_35353187/article/details/82383931)
+4. **面试题合集**
 * [**20道大数据常见面试题**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html)
 * [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
 * [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
