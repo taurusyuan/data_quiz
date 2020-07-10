@@ -160,6 +160,7 @@
 1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1) (⭐⭐⭐⭐⭐)
 * 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
 2. Hadoop各个组件
+* [**Hadoop组件：mapreduce、hdfs、hive、Flum、Sqoop、Hbase、kafka、spark**](https://blog.csdn.net/weixin_35353187/article/details/84777189)
 * [**HDFS**](https://blog.csdn.net/weixin_35353187/article/details/82047892)
 * [**MapReduce**](https://blog.csdn.net/weixin_35353187/article/details/82108388)
 * [**Yarn**](https://blog.csdn.net/weixin_35353187/article/details/82112174)
@@ -171,11 +172,8 @@
 * **Spark** (非常重要的知识点，内容也很多)
   * [RDD (宽窄依赖)、stage (划分、shuffle)、数据倾斜](https://blog.csdn.net/weixin_35353187/article/details/84674386) (⭐⭐⭐⭐⭐)
   * [driver、部署模式、与hadoop比 (优点、shuffle异同)、cache和pesist的区别、RDD (缺陷、操作类型)](https://blog.csdn.net/weixin_35353187/article/details/84728358)  (⭐⭐⭐⭐⭐)
-  * [3](https://blog.csdn.net/weixin_35353187/article/details/84728513)
-  * [4](https://blog.csdn.net/weixin_35353187/article/details/84729049)
-  * [5](https://blog.csdn.net/weixin_35353187/article/details/84777189)
-  * [6](https://blog.csdn.net/weixin_35353187/article/details/84777309)
-  * [7](https://blog.csdn.net/weixin_35353187/article/details/84777928)
+  * [包含上述两条内容，也多了很多扩展内容](https://blog.csdn.net/weixin_35353187/article/details/84728513)
+  * [Yarn执行过程、Spark on Yarn优点、3种调度器优缺点、combine和partition的作用、Lineage容错](https://blog.csdn.net/weixin_35353187/article/details/84729049)
 3. **命令行操作**
 * [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187) 
 * [**HBase基本命令行操作**](https://blog.csdn.net/weixin_35353187/article/details/82383931)
