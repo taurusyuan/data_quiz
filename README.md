@@ -169,7 +169,8 @@
 * [**HBase**](https://blog.csdn.net/weixin_35353187/article/details/82456905)
 * [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
 * **Spark** (非常重要的知识点，内容也很多)
-  * [1](https://blog.csdn.net/zuolixiangfisher/article/details/88973159)
+  * [1](https://blog.csdn.net/weixin_35353187/article/details/84674386) (⭐⭐⭐⭐⭐)
+    >这个原理写的很清楚，面试前复盘。(涉及高频面试题RDD、shuffle、数据倾斜)
   * [2](https://blog.csdn.net/weixin_35353187/article/details/84728358)
   * [3](https://blog.csdn.net/weixin_35353187/article/details/84728513)
   * [4](https://blog.csdn.net/weixin_35353187/article/details/84729049)
@@ -182,6 +183,7 @@
 4. **面试题合集**
 * [**20道大数据常见面试题1**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html) (⭐⭐⭐⭐⭐)
 * [**20道大数据常见面试题2**](https://blog.csdn.net/zuolixiangfisher/article/details/88973159) (⭐⭐⭐⭐⭐)
+* [**15道大数据常见面试题**](https://blog.csdn.net/m0_37803704/article/details/80366240)
 * [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
 * [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
 * [**大数据Hadoop经典面试题3**](https://blog.csdn.net/weixin_35353187/article/details/83176026)
