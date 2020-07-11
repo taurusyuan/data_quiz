@@ -1,4 +1,4 @@
-# 2020互联网秋招技术岗面试必备资料和总结
+# 2020互联网技术岗面试必备资料和总结（秋招/春招/实习）
 
 ## 前言
 1. **岗位需求和面经**
@@ -43,14 +43,17 @@
 6. [**TCP的三次握手与四次挥手理解及面试题 (很全面)**](https://www.cnblogs.com/bj-mr-li/p/11106390.html)
 * 看完前面的详解再看这一条就十分清晰明了，再用面试题来巩固一下。
 7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
-8. [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
+8. [**TCP滑动窗口**](https://www.cnblogs.com/jkzr/p/10488247.html) & [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
 9. [**从输入URL到网页呈现的过程**](https://www.cnblogs.com/xufeimei/p/10745227.html)
-10. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
+10. [**Https原理及流程**](https://www.jianshu.com/p/14cd2c9d2cd2)
+11. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
-11. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
+12. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
 * 适合看完[6. 计算机网络面试题总结](#2.10)再复盘一遍。
-12. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
+13. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
+14. **TCP怎么保证可靠性**
+* 差错检验机制，反馈机制，重传机制，引入序号，滑动窗口协议，选择重传。
 
 ## 三. 关于MySQL
 1. **MYSQL事务和隔离级别**：
@@ -127,7 +130,7 @@
 ## 七. 关于Python
 1. [**时间/空间复杂度分析**](https://blog.csdn.net/haha223545/article/details/93619874)
 2. [**切片**](https://www.jianshu.com/p/15715d6f4dad)
-3. [**复制/浅拷贝/深拷贝**](https://blog.csdn.net/bufengzj/article/details/90486991)
+3. [**复制/浅拷贝/深拷贝**1](https://blog.csdn.net/bufengzj/article/details/90486991) & [**复制/浅拷贝/深拷贝**2](https://www.jianshu.com/p/5cf2aebdf7c5)
 * 说明：常用的是浅拷贝 ("`copy.copy()`"或者"`[:]`")，而不是深拷贝"`copy.deepcopy()`"；深拷贝与浅拷贝唯一区别是除了外围元素，内层元素也做了复制，原数据变化后，复制的数据不会变化；浅拷贝只复制了外围元素，原数据外围元素变化时复制数据不变，但是原数据内层元素变化时复制数据跟着变化；复制 (即"`=`") 前后，原数据和复制数据的id相同，浅拷贝和深拷贝前后数据的id不同。
 >备注：浅拷贝只复制指向某个对象的指针，而不复制对象本身，新旧对象还是共享同一块内存。但深拷贝会另外创造一个一模一样的对象，新对象跟原对象不共享内存，修改新对象不会改到原对象。
 4. [**Python中`is`和`==`的区别**](https://www.cnblogs.com/wangkun122/p/9082088.html)
@@ -138,6 +141,11 @@
 7. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
 8. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 * Python中的函数就是一个很好的单例模式的例子。
+9. [**Python内存管理机制**](https://www.cnblogs.com/geaozhang/p/7111961.html)
+* 引入计数、垃圾回收、内存池机制。
+10. [**Python中static_method、class_mathod、和普通method有什么区别**](https://www.cnblogs.com/ltb6w/p/11875480.html)
+11. [**Python可迭代对象、迭代器、生成器的区别**](https://blog.csdn.net/jinixin/article/details/72232604)
+* 定义可迭代对象，必须实现`__iter__()`方法；定义迭代器，必须实现`__iter__()`和`next()`方法; 生成器是一种特殊的迭代器 具有yield关键字的函数都是生成器，yield可以理解为return，返回后面的值给调用者。不同的是return返回后，函数会释放，而生成器则不会。在直接调用next方法或用for语句进行下一次迭代时，生成器会从yield下一句开始执行，直至遇到下一个yield)。
 
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
@@ -145,14 +153,44 @@
 3. [**LeetCode高频率题目分类标记** (好心人开了会员截图展示)](https://ac.nowcoder.com/discuss/292850)
 4. [**LeetCode大佬的博客**](https://krahets.gitee.io/) 
 * 说明：他对剑指offer所有题的解析非常好，有PPT动图解析，在leetcode里都是精选排名最靠前的解析，而且人还超级nice。
-5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
+5. [**海量数据处理-10亿个数中找出最大的10000个数 (top K问题)**](https://blog.csdn.net/zyq522376829/article/details/47686867) (⭐⭐⭐⭐⭐)
+6. [**海量数据处理面试题集锦**](https://blog.csdn.net/athlenaa/article/details/86994633) (⭐⭐⭐⭐)
 
-## 关于Hadoop生态圈
-1. [**Hadoop面试知识点**](https://www.jianshu.com/p/a8e7e98298cc)
+## 九.关于Hadoop生态圈
+1. [**大数据之Hadoop生态圈知识整合 (一个CSDN大佬的博客)**](https://blog.csdn.net/weixin_35353187?t=1) (⭐⭐⭐⭐⭐)
+* 可以搜索你想要的所有关于大数据里关于Hadoop生态圈的内容，分点整合，讲的十分清楚。
+2. Hadoop各个组件
+* [**Hadoop组件：mapreduce、hdfs、hive、Flum、Sqoop、Hbase、kafka、spark**](https://blog.csdn.net/weixin_35353187/article/details/84777189)
+* [**HDFS**](https://blog.csdn.net/weixin_35353187/article/details/82047892)
+* [**MapReduce**](https://blog.csdn.net/weixin_35353187/article/details/82108388)
+* [**Yarn**](https://blog.csdn.net/weixin_35353187/article/details/82112174)
+* [**Sqoop**](https://blog.csdn.net/weixin_35353187/article/details/82318482)
+* [**Flume**](https://blog.csdn.net/weixin_35353187/article/details/83038297)
+* [**zookeeper**](https://blog.csdn.net/weixin_35353187/article/details/82351970)
+* [**HBase**](https://blog.csdn.net/weixin_35353187/article/details/82456905)
+* [**Hive、Hbase、mysql区别**](https://blog.csdn.net/vipyeshuai/article/details/50847281)
+* **Spark** (非常重要的知识点，内容也很多)
+  * [RDD (宽窄依赖)、stage (划分、shuffle)、数据倾斜](https://blog.csdn.net/weixin_35353187/article/details/84674386) (⭐⭐⭐⭐⭐)
+  * [driver、部署模式、与hadoop比 (优点、shuffle异同)、cache和pesist的区别、RDD (缺陷、操作类型)](https://blog.csdn.net/weixin_35353187/article/details/84728358)  (⭐⭐⭐⭐⭐)
+  * [包含上述两条内容，也多了很多扩展内容](https://blog.csdn.net/weixin_35353187/article/details/84728513)
+  * [Yarn执行过程、Spark on Yarn优点、3种调度器优缺点、combine和partition的作用、Lineage容错](https://blog.csdn.net/weixin_35353187/article/details/84729049)
+3. **命令行操作**
+* [**HDFS客户端基本shell操作**](https://blog.csdn.net/weixin_35353187/article/details/81257187) 
+* [**HBase基本命令行操作**](https://blog.csdn.net/weixin_35353187/article/details/82383931)
+4. **面试题合集**
+* [**20道大数据常见面试题1**](https://www.solves.com.cn/hlw/dsj/2019-08-08/3025.html) (⭐⭐⭐⭐⭐)
+* [**20道大数据常见面试题2**](https://blog.csdn.net/zuolixiangfisher/article/details/88973159) (⭐⭐⭐⭐⭐)
+* [**大数据Hadoop经典面试题1**](https://blog.csdn.net/weixin_35353187/article/details/82426828)
+* [**大数据Hadoop经典面试题2**](https://blog.csdn.net/weixin_35353187/article/details/82464060)
+* [**大数据Hadoop经典面试题3**](https://blog.csdn.net/weixin_35353187/article/details/83176026)
 
-## 九.其他人的面试准备汇总
+## 十.其他人的面试准备汇总
 1. [**面面俱到又清晰明了的面试题总结** ](https://github.com/CyC2018/CS-Notes#pencil2-%E7%AE%97%E6%B3%95)
 * 说明：你想要的他都有的面试总结, 强推。
 2. [**全方位面试题总结**](https://github.com/taizilongxu/interview_python)
 * 说明：有Python语言特性、数据库、操作系统、计算机网络、数据结构等，面向面经复习很有用。
 3. [**各大公司的面试题的分类汇总以及各大模块内容的分类总结**](https://github.com/0voice/interview_internal_reference)
+
+## N.字节跳动面试相关
+1. [**字节常见面试题**](https://zhuanlan.zhihu.com/p/142319480?from_voters_page=true)
+2. [**字节跳动2020面试算法题+场景题+智力题100题**](https://ac.nowcoder.com/discuss/425581)
