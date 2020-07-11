@@ -194,3 +194,4 @@
 ## N.字节跳动面试相关
 1. [**字节常见面试题**](https://zhuanlan.zhihu.com/p/142319480?from_voters_page=true)
 2. [**字节跳动2020面试算法题+场景题+智力题100题**](https://ac.nowcoder.com/discuss/425581)
+3. [**字节跳动2020面试高频算法题**](https://www.nowcoder.com/discuss/445445)
