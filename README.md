@@ -45,7 +45,7 @@
 7. [**TCP和UDP的最完整的区别**](https://www.cnblogs.com/williamjie/p/9390164.html)
 8. [**TCP滑动窗口**](https://www.cnblogs.com/jkzr/p/10488247.html) & [**TCP滑动窗口和拥塞控制机制详解**](https://blog.csdn.net/genzld/article/details/85317565)
 9. [**从输入URL到网页呈现的过程**](https://www.cnblogs.com/xufeimei/p/10745227.html)
-10. [**Https原理及流程**](https://www.jianshu.com/p/14cd2c9d2cd2)
+10. [**Https原理及流程**](https://www.jianshu.com/p/14cd2c9d2cd2) & [**常见的HTTP状态码有哪些**](https://blog.csdn.net/laishaohe/article/details/79052085)
 11. <span id="2.10">[**计算机网络面试题总结**](https://blog.csdn.net/qq_42651904/article/details/91355804)</span>
 * 全面覆盖知识点且逻辑层次很清晰，有答案解析。
 12. [**计算机网络常见面试题详细版** (含答案)](https://blog.csdn.net/sdgihshdv/article/details/79503274)
