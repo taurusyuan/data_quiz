@@ -52,7 +52,8 @@
 * 适合看完[6. 计算机网络面试题总结](#2.10)再复盘一遍。
 13. [**计算机网络常见面试题精简版** (含答案)](https://krahets.gitee.io/views/computer-network/2019-09-18-post-computer-network-interview.html#osi%E4%B8%83%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81tcp-ip%E5%9B%9B%E5%B1%82%E6%A8%A1%E5%9E%8B%E3%80%81%E4%BA%94%E5%B1%82%E5%8D%8F%E8%AE%AE) (⭐⭐⭐⭐⭐)
 * 基本囊括所有面试题的精华，言简意赅，适合复盘时期阅读复习。
-14. **TCP怎么保证可靠性**
+14. [**一文搞定TCP和UDP面试题**](https://blog.csdn.net/weixin_42155498/article/details/107914137)
+15. **TCP怎么保证可靠性**
 * 差错检验机制，反馈机制，重传机制，引入序号，滑动窗口协议，选择重传。
 
 ## 三. 关于MySQL
