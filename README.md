@@ -142,7 +142,7 @@
 7. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
 8. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 * Python中的函数就是一个很好的单例模式的例子。
-9. [**Python内存管理机制**](https://www.cnblogs.com/geaozhang/p/7111961.html)
+9. [**Python垃圾回收**](https://www.cnblogs.com/geaozhang/p/7111961.html)
 * 引入计数、垃圾回收、内存池机制。
 10. [**Python中static_method、class_mathod、和普通method有什么区别**](https://www.cnblogs.com/ltb6w/p/11875480.html)
 11. [**Python可迭代对象、迭代器、生成器的区别**](https://blog.csdn.net/jinixin/article/details/72232604)
