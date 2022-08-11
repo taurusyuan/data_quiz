@@ -139,6 +139,7 @@
 5. [**Python中`*`和`**`的区别**](https://www.cnblogs.com/beiluowuzheng/p/8461518.html)
 * Python中，`*`会把接收到的参数形成一个元组，而`**`则会把接收到的参数存入一个字典。
 6. [**continue 和 break 的区别**](https://www.cnblogs.com/NancyRM/p/7998088.html)
+* continue 用于跳过该次循环，break 则是用于退出循环
 7. [**双边队列**](https://www.cnblogs.com/lincappu/p/12890765.html)
 8. [**Python实现单例模式**](https://github.com/taizilongxu/interview_python#16-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F)
 * Python中的函数就是一个很好的单例模式的例子。
@@ -147,7 +148,8 @@
 10. [**Python中static_method、class_mathod、和普通method有什么区别**](https://www.cnblogs.com/ltb6w/p/11875480.html)
 11. [**Python可迭代对象、迭代器、生成器的区别**](https://blog.csdn.net/jinixin/article/details/72232604)
 * 定义可迭代对象，必须实现`__iter__()`方法；定义迭代器，必须实现`__iter__()`和`next()`方法; 生成器是一种特殊的迭代器 具有yield关键字的函数都是生成器，yield可以理解为return，返回后面的值给调用者。不同的是return返回后，函数会释放，而生成器则不会。在直接调用next方法或用for语句进行下一次迭代时，生成器会从yield下一句开始执行，直至遇到下一个yield)。
-12. [**Python / 和 % 和 //（地板除）**](https://www.jb51.net/article/189561.htm)
+12. [**Python / 和 //（地板除）和 % **](https://www.jb51.net/article/189561.htm)
+* /(普通意义的除, 保留小数); //(整除，向下取整); %:(取余)。
 
 ## 八.关于算法
 1. [**各类题型算法模板**](https://greyireland.gitbook.io/algorithm-pattern/)
